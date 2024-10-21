@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+.profileInfo{
+    width: 200px;
+    margin: 0 auto;
+    padding: 5em;
+    border: lpx solid #888;
+    border-radius: 5px; 
+    box-shadow: 5px 5px 5px #0008; 
+}
+.profileinfo img {
+    width: 100%;
+}
+
+.profileInfo .name {
+    font-size: 2em;
+    margin: 0;
+    text-align: center;
+}
